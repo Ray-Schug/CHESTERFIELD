@@ -1,3 +1,0 @@
-#Batch
-
-Batch Job scripting
